@@ -1,17 +1,13 @@
 {
-    "name": "ass/xmlsecurity",
+    "name": "burti/ass-xmlsecurity",
     "type": "library",
     "description": "The XmlSecurity library is written in PHP for working with XML Encryption and Signatures",
     "keywords": [ "xml", "security", "encryption", "signature" ],
-    "homepage": "https://github.com/aschamberger/XmlSecurity",
+    "homepage": "https://github.com/Burti/XmlSecurity",
     "authors": [
         {
-            "name": "Robert Richards",
-            "email": "rrichards@cdatazone.org"
-        },
-        {
-            "name": "Andreas Schamberger",
-            "email": "mail@andreass.net"
+            "name": "Caio Paiola",
+            "email": "caio____@live.com"
         }
     ],
     "require": {
