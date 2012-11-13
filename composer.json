@@ -4,6 +4,8 @@
     "description": "The XmlSecurity library is written in PHP for working with XML Encryption and Signatures",
     "keywords": [ "xml", "security", "encryption", "signature" ],
     "homepage": "https://github.com/Burti/XmlSecurity",
+    "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Caio Paiola",
