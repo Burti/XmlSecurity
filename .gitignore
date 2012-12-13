@@ -1,7 +1,11 @@
 *.sublime-*
-.*DS_Store
+*.DS_Store
 *nbproject*
 *._*
-phpunit.xml
 vendor
+phpunit.xml
+.buildpath
+.project
+.settings
 *.swp
+
